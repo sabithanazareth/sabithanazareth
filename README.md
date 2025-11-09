@@ -5,7 +5,7 @@
     <a href="https://www.linkedin.com/in/sabitha-nazareth/">
       <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&size=25" />
     </a>
-    <a href="https://www.leetcode.com/in/sabithanazareth21/">
+    <a href="https://leetcode.com/u/sabithanazareth21/">
       <img src="https://img.shields.io/badge/LeetCode-000000?style=flat-square&logo=LeetCode&logoColor=&size=25" />
     </a>
     <a href="https://sabithanazareth.github.io/">
