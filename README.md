@@ -22,7 +22,6 @@
 <h4 align="left">Full Stack Developer with a Master's in Computer Science. With proven capabilities in Backend Development, Database management, DevOps, and Machine learning, I thrive on turning creative ideas into scalable, real-world solutions.</h4>
 
 - 🔭 Master's in Computer Science(May 2024) [Stevens Institute of Technology](https://www.stevens.edu)
-- 🌱 I’m currently learning **SpringBoot, AWS and Artificial Intelligence**
 - 👨‍💻 All of my projects are available at [https://github.com/sabithanazareth](https://github.com/sabithanazareth)
 
 ## 🛠️ Languages & Tools
