@@ -71,6 +71,5 @@
 I love collaborating on projects and exploring new ideas. Feel free to get in touch:
 <p align="left">
 <a href="https://linkedin.com/in/sabitha-nazareth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sabitha-nazareth/" height="30" width="40" /></a>
-<a href="https://instagram.com/saby._.naz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saby._.naz" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sabithanazareth21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sabithanazareth21" height="30" width="40" /></a>
 </p>
