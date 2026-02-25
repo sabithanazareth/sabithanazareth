@@ -62,7 +62,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="40" height="40"/>
 </p>
 
-## 🚀 GitHub Stats
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabithanazareth&layout=compact" alt="sabithanazareth" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sabithanazareth&show_icons=true&locale=en" alt="sabithanazareth" /></p> -->
 
